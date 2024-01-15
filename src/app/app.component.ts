@@ -1,5 +1,5 @@
-import { Component } from '@angular/core';
-import { HomeComponent } from './home/home.component';
+import { Component } from '@angular/core'
+import { HomeComponent } from './home/home.component'
 
 @Component({
   selector: 'app-root',
@@ -10,5 +10,5 @@ import { HomeComponent } from './home/home.component';
 })
 
 export class AppComponent {
-  title = 'homes';
+  title = 'homes'
 }
